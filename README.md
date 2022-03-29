@@ -8,3 +8,6 @@ CalcalateNucleotideFrequnency.py is the main program for calculating the nucleot
 IMemProt.cds is an example as input file which includs the protein coding genes (input file must be the fasta format)
 
 nuclRate.txt is the results produced by the CalcalateNucleotideFrequnency.py and IMemProt.cds files.
+
+
+Due to the large amount of raw data so we provide a list which includs all species name in this paper. 
